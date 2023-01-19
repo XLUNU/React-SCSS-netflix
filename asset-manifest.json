@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-SCSS-netflix/static/css/main.27fb8860.css",
+    "main.js": "/React-SCSS-netflix/static/js/main.fe3342d5.js",
+    "static/media/bg.jpg": "/React-SCSS-netflix/static/media/bg.933fc2923bf4d9541e92.jpg",
+    "index.html": "/React-SCSS-netflix/index.html",
+    "main.27fb8860.css.map": "/React-SCSS-netflix/static/css/main.27fb8860.css.map",
+    "main.fe3342d5.js.map": "/React-SCSS-netflix/static/js/main.fe3342d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27fb8860.css",
+    "static/js/main.fe3342d5.js"
+  ]
+}
